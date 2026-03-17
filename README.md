@@ -44,15 +44,25 @@ Além disso, há uma classe **Main** que permite interação com o usuário via 
 ## 📖 Exemplo de Uso
 
 ### Entrada do usuário:
+
 Digite o nome do garçom: Carlos
+
 Pedido criado com ID: 742
+
 Quantos pratos deseja registrar? 2
+
 Nome do prato 1: Pizza 
+
 Preço do prato 1: 30
+
 Nome do prato 2: Suco
+
 Preço do prato 2: 8
 
+
+
 --
+
 
 ### Saída esperada:
 
